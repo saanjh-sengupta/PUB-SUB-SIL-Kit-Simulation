@@ -8,6 +8,6 @@
         (2) Temperature - Normal pre-defined data type. 
 
 # How to run the simulation?
-(1) Run the SIL Kit Registry
-(2) Run the SIL Kit System Controller (mention the participant's names required for the simulation)
-(3) Run the participants; add the path of the configuration file and the participant name
+    (1) Run the SIL Kit Registry
+    (2) Run the SIL Kit System Controller (mention the participant's names required for the simulation)
+    (3) Run the participants; add the path of the configuration file and the participant name
