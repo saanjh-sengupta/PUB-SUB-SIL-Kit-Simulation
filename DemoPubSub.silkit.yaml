@@ -1,0 +1,11 @@
+## Description: Briefing of the configuration file
+## Logging: Configures he logging settings for the simulation
+  ## Sinks: Defines where the log messages are sent 
+    ## Level: Specifies the logging level --> log levels with Info messages higher will be the ouput
+    ## Type: Specifies the destination for the log messages
+    
+Description: Sample Configuration for Data Publish/Subscribe
+Logging:
+  Sinks:
+    - Level: Info
+      Type: Stdout
